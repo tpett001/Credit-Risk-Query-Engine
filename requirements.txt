@@ -1,0 +1,5 @@
+streamlit>=1.40
+langchain-openai>=0.3
+langchain-core>=0.3
+pandas>=2.0
+sqlparse>=0.5
